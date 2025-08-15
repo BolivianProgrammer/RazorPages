@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WARazor", "WARazor.csproj", "{85FDC036-35CD-45A3-A746-53EE7E0AC05B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85FDC036-35CD-45A3-A746-53EE7E0AC05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85FDC036-35CD-45A3-A746-53EE7E0AC05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85FDC036-35CD-45A3-A746-53EE7E0AC05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85FDC036-35CD-45A3-A746-53EE7E0AC05B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87CA7BCD-C37F-4F13-8178-4CEE77ED6D66}
+	EndGlobalSection
+EndGlobal
